@@ -1,4 +1,4 @@
-package AhoCorasick;
+package StrAlgo;
 
 
 import java.util.HashMap;

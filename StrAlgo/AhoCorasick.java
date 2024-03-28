@@ -1,4 +1,4 @@
-package AhoCorasick;
+package StrAlgo;
 
 import java.io.*;
 import java.util.*;
